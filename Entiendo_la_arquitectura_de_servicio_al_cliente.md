@@ -1,13 +1,10 @@
 # Arquitectura — Módulo Servicio al Cliente
 
-## Objetivo
-Comprender y documentar la arquitectura del módulo para mantener código mantenible, testeable y consistente.
-
----
+Esta informacion fue dada de la investigacion de como laravel entiende el flujo de carpetas y como se debe mantener.
 
 ## 1) Comprender la estructura de carpetas del módulo
 
-### Propuesta de carpetas (ejemplo)
+### Propuesta de carpetas (obviamente ejemplo)
 ```
 app/
   Http/
